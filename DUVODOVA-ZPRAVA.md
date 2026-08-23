@@ -8,7 +8,6 @@
 
 *Zdroj: sněmovní tisk 1048 (1. období) — důvodová zpráva není v digitálním repozitáři dostupná v textové podobě; oddíl proto obsahuje pouze tuto poznámku.*
 
-
 ---
 
 ## Důvodová zpráva k zákonu č. 275/2012 Sb., o volbě prezidenta republiky
