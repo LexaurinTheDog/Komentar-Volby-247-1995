@@ -1,6 +1,6 @@
 # Rejstřík ustanovení
 
-Komentář k volebním zákonům. Odkazy vedou do kapitol komentáře.
+Kombinovaný komentář k volebním zákonům (247/1995, 275/2012, 491/2001, 62/2003 Sb.). Odkazy vedou do kapitol komentáře.
 
 | Ustanovení | Kapitola |
 |---|---|

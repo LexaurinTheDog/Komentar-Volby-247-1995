@@ -12,12 +12,15 @@ Začněte [úvodem](00-uvod.md) a [rejstříkem ustanovení](INDEX.md).
 |---|---|
 | [00](00-uvod.md) | Úvod — kontext, klíčové instituty, metoda |
 | [01](01-parlament.md) | Zákon č. 247/1995 Sb., o volbách do Parlamentu ČR (§ 1–99) |
+| [02](02-prezident.md) | Zákon č. 275/2012 Sb., o volbě prezidenta republiky (§ 1–89) |
+| [03](03-obce.md) | Zákon č. 491/2001 Sb., o volbách do zastupitelstev obcí (§ 1–82) |
+| [04](04-evropsky-parlament.md) | Zákon č. 62/2003 Sb., o volbách do Evropského parlamentu (§ 1–73) |
 
 Doplňkové soubory: [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) (tisky 1048/I, 613/VI, 968/III a 51/IV), [ZASADY.md](ZASADY.md), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md), [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md), [judikatura/](judikatura/README.md).
 
 ## Rozsah
 
-- **52 paragrafových jednotek**; u každého §: doslovné znění, výklad a sekce F. Kazuistika / G. Protiargumenty a rizika / H. Praktický závěr
+- **158 paragrafových jednotek napříč čtyřmi zákony**; u každého §: doslovné znění, výklad a sekce F. Kazuistika / G. Protiargumenty a rizika / H. Praktický závěr
 
 ## Metoda
 
